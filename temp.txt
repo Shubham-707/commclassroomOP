@@ -1,0 +1,1 @@
+This is a temporary file with a test message "Hello".
